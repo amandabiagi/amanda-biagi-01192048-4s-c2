@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meu Amigo Cão</string>
+    <string name="id_01">Primeiro ID</string>
+    <string name="id_02">Segundo ID</string>
+    <string name="informacao_01">Preencha os campos para encontrarmos seus cãozinhos</string>
+    <string name="comprar_cachorro">Comprar Cachorros</string>
+    <string name="amigavel_crianca">Apenas amigável com crianças</string>
+    <string name="deu_ruim">Deu ruim... Nenhum cachorro encontrado com os ids %1$s e %2$s</string>
+</resources>

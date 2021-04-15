@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My dog ​​friend</string>
+    <string name="id_01">First ID</string>
+    <string name="id_02">Second ID</string>
+    <string name="informacao_01">Fill in the fields to find your little dogs</string>
+    <string name="comprar_cachorro">Buy Dogs</string>
+    <string name="amigavel_crianca">Just friendly with children</string>
+    <string name="deu_ruim">It went bad ... No dogs found with the ids %1$d e %2$d</string>
+</resources>
